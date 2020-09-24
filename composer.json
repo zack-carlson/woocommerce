@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Corcel\\WooCommerce\\": "src/"
+      "zack-carlson\\WooCommerce\\": "src/"
     }
   }
 }
