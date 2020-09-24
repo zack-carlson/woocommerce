@@ -1,13 +1,13 @@
 {
-  "name": "corcel/woocommerce",
+  "name": "zack-carlson/woocommerce",
   "description": "WooCommerce plugin for Corcel",
   "homepage": "http://github.com/corcel/woocommerce",
   "license": "MIT",
   "authors": [
     {
-      "name": "Krzysztof Grabania",
-      "email": "krzysztof@grabania.pl",
-      "homepage": "http://grabania.pl"
+      "name": "Zack Carlson",
+      "email": "zack.carlson@cyberpower.com",
+      "homepage": "https://www.cyberpowersystems.com"
     }
   ],
   "require": {
