@@ -1,5 +1,5 @@
 {
-  "name": "zack-carlson/woocommerce",
+  "name": "corcel/woocommerce",
   "description": "WooCommerce plugin for Corcel",
   "homepage": "http://github.com/corcel/woocommerce",
   "license": "MIT",
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "zack-carlson\\WooCommerce\\": "src/"
+      "corcel\\WooCommerce\\": "src/"
     }
   }
 }
